@@ -1,0 +1,5 @@
+Tutorial 2
+Activity 3 (26)
+
+I would notice because the corresponding field would be silently missing from the JSON API response,
+or the frontend would display an undefined/null value without having any backend errors.
